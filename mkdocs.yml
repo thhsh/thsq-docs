@@ -1,4 +1,4 @@
-site_name: thSquared Docs
+site_name: TH_squared Docs
 theme:
   name: material
   logo: localassets/TH2_black_small_square.png
@@ -62,7 +62,7 @@ plugins:
         - index.md
   - search
   - awesome-pages
-copyright: Copyright &copy; 2024 | Tristan Hils LLC, DBA thSquared
+copyright: Copyright &copy; 2024 | Tristan Hils LLC, DBA TH_squared
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
