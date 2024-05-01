@@ -14,11 +14,3 @@ Then, reach out to `sos@thsq.us` (or [:material-email-outline: click here](mailt
 Because of the way we're set up, we currently don't accept phone or video calls without a previously-scheduled appointment.
 
 Want to schedule a call? Please send us an email. We promise that we reply super-fast!
-
-## :material-lightbulb-on-outline: Suggestions
-Have an idea for a great resource for this documentation? Drop us a note at `docs@thsq.us` (or [:material-email-outline: click here](mailto:docs@thsq.us)) and we'll be happy to review.
-
-Suggestion for something that's not docs-related? Email `team@thsq.us`.
-
-## :material-fountain-pen: Work with us
-We regret that we're not able to accept applications for employment, freelance work, or internships at this time. Please check back!
