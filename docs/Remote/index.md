@@ -5,7 +5,7 @@ With **Remote for Venues**, your technicians can access control system(s) for yo
 
 We will provide you with hardware to add to your production network to enable remote access, and will provide a web-based portal to allow your team to securely connect from anywhere in the world.
 
-Already set up with Remote for Venues? :octicons-arrow-right-24: [:material-cloud-key: Login - Remote for Venues](Contact/index.md)
+Already set up with Remote for Venues? :octicons-arrow-right-24: [:material-cloud-key: Login - Remote for Venues](https://rfv.thsq.us)
 
 ## :fontawesome-solid-headset: Remote for Support
 With **Remote for Support**, we can help you set up, update, program, and change your system(s).
