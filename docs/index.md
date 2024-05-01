@@ -2,7 +2,7 @@
 ## Quick Links
 Use these quick links to jump to a common location, or read on for more info:
 
-[:material-email-fast: Contact Us](Contact/index.md){ .md-button }  [:material-cloud-key: Login - Remote for Venues](Contact/index.md){ .md-button }
+[:material-email-fast: Contact Us](Contact/index.md){ .md-button }  [:material-cloud-key: Login - Remote for Venues](https://rfv.thsq.us){ .md-button }
 
 ---
 
