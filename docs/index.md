@@ -1,8 +1,16 @@
 # Welcome
+## Quick Links
+Use these quick links to jump to a common location, or read on for more info:
 
-Welcome to the **THsquared** documentation site!
+[:material-email-fast: Contact Us](Contact/index.md){ .md-button }  [:material-cloud-key: Login - Remote for Venues](Contact/index.md){ .md-button }
+
+---
+
+## :material-hand-wave: Hello!
+Welcome to the **TH_squared** documentation site!
 
 This site contains a variety of different resources that you may find useful in the world of lighting, sound, video, and networking.
+
 
 ## Resources
 ### :material-light-flood-down: Lighting
@@ -30,11 +38,11 @@ The [:material-wrench-cog: General Resources](General-Resources/index.md) sectio
 
 [:octicons-arrow-right-16: :material-wrench-cog: General Resources](General-Resources/index.md)
 
-## :material-cloud-key: Remote
+## :octicons-cloud-16: Remote
 We have **Remote Infrastructure Access** solutions that allow you and other technicians to remotely access your controls network(s) without having to be onsite.
 
 With **Remote for Support**, we can help you set up, update, program, and change your system(s).
 
 With **Remote for Venues**, your technicians can access control system(s) for your venue and control your equipment, change operating schedules and settings, and more.
 
-Find out about both options on our [:material-cloud-key: Remote](Remote/index.md) pages.
+Find out about both options on our [:octicons-cloud-16: Remote](Remote/index.md) pages.
