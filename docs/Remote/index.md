@@ -6,7 +6,7 @@
 
 [:octicons-cloud-16: Learn More About ShowCTRL Cloud](https://showctrl.cloud){ .md-button }
 
-Our sister company **ShowCTRL Cloud** provides solutions for remote access and management to your production project hardware and devices.
+Our sister company **ShowCTRL Cloud** provides solutions for remote access and management to your production project hardware and devices, for both system integrators and venues.
 
 -   Manage and control products from multiple manufacturers, all from one convenient access point
 -   Access from anywhere in the world, all you need is a web browser
